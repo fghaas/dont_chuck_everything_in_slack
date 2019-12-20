@@ -17,6 +17,16 @@ event -->. It is [CC-BY-SA
 
 This talk is about communications in distributed teams.
 
+You can cycle through these slides by 
+
+* using the controls shown on each slide,
+* using the `PgUp` and `PgDown` keys,
+* hitting the spacebar,
+* swiping left/right and up/down on a touchscreen device,
+* enabling Overview mode by hitting the `Esc` key (or pinch-zooming
+  out on a touchscreen device), and then selecting the slide of your liking,
+* clicking the menu icon (&equiv;) or pressing the `m` key for a slide menu. 
+
 
 ### Why am I talking here?
 
