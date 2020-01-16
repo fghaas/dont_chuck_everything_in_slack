@@ -3,15 +3,15 @@ Communications for distributed teams
 
 * * *
 
-DevOpsDays Tel Aviv, 2019
+<!-- FIXME: Insert event title and date -->
 
 * * *
 
 [Florian Haas](https://twitter.com/xahteiwi) ![City Network logo](images/citynetwork-logo.svg) <!-- .element class="inline" --> [City Network](https://citynetworkhosting.com)
 
 <!-- Note -->
-This presentation is a 40-minute talk presented at [DevOpsDays Tel
-Aviv](https://devopsdaystlv.com/) 2019. It is [CC-BY-SA
+This presentation is a 40-minute talk presented at <!-- FIXME: insert
+event -->. It is [CC-BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licensed, see
 [the license](/LICENSE) for details.
 
